@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  🎓 Information Security student at CESAR School, Brazil
+  🎓 Studying Information Security at CESAR School and Systems Analysis and Development at Uniasselvi
 </p>
 
 <p align="center">
@@ -25,17 +25,26 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Security student at **CESAR School**, passionate about technology, software development, and cybersecurity.
+I'm a technology enthusiast currently pursuing two degrees: **Information Security at CESAR School** and **Systems Analysis and Development (ADS) at Uniasselvi**.
+
+My academic journey combines software engineering and cybersecurity, allowing me to explore both the development of applications and the techniques used to protect systems and data.
 
 My main interests include:
 
-- 🔐 **Cybersecurity:** Learning about penetration testing, security analysis, and vulnerability assessment.
+- 🔐 **Cybersecurity:** Learning about penetration testing, vulnerability assessment, and security analysis.
 - 🛠️ **Backend Development:** Building APIs and exploring software architecture, authentication, and access control.
 - 🐍 **Python:** Developing applications, automating tasks, and exploring machine learning for cybersecurity.
 - 🧠 **Artificial Intelligence:** Exploring machine learning applications for threat detection and phishing prevention.
 - 📚 **Continuous Learning:** Developing practical projects and improving my technical skills through hands-on experience.
 
 I'm always looking for opportunities to learn, collaborate, and turn knowledge into practical solutions.
+
+---
+
+## 🎓 Education
+
+- **CESAR School** — Information Security *(In Progress)*
+- **Uniasselvi** — Systems Analysis and Development (ADS) *(In Progress)*
 
 ---
 
