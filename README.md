@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Roger Cauã 👋</h1>
 
 <h3 align="center">
-  Cybersecurity Student | Backend Developer | Security Enthusiast
+  Cybersecurity Student | Backend Development | Security Enthusiast
 </h3>
 
 <p align="center">
